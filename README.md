@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there👋
+I am Songhee Park who is interested in Data Analysis, Science.
 
+- 🔭 I am majoring in Human-centered Artificial Intelligence.
+- 🌱 I am currently learning data analysis.
 <!--
 **sh00-git/sh00-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
